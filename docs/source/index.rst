@@ -1,0 +1,2 @@
+.. automodule:: TangoTest
+    :members: TangoTest
